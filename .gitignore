@@ -1,0 +1,17 @@
+# Environments
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data Files (Excluded due to size, must be downloaded per reproducibility instructions)
+data/raw/*.csv
+data/cleaned/*.parquet
+data/cleaned/*.csv
+
+# OS generated files
+.DS_Store

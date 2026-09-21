@@ -1,0 +1,8 @@
+pandas
+numpy
+duckdb
+matplotlib
+statsmodels
+jupyter
+nbformat
+pyarrow
